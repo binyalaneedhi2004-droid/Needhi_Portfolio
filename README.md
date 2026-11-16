@@ -9,7 +9,10 @@
 </body>
 </html>
 <h2>About</h2>
-<p>Two or three lines about you.</p>
+<p>I am an SEO professional with hands-on internship experience in Search Engine Optimization and Digital Marketing.
+I have gained practical exposure to keyword research, on-page SEO, off-page SEO, backlink building, content optimization and organic search strategies.
+I am passionate about understanding search engine algorithms, improving website visibility and staying updated with evolving SEO practices, including Technical SEO and Generative Engine Optimization (GEO).
+I am currently seeking full-time, entry-level opportunities as an SEO Executive, SEO Analyst or Digital Marketing Executive, where I can apply my skills, contribute to business growth and continue developing professionally.</p>
 
 <h2>Skills</h2>
 <ul>
